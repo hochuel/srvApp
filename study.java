@@ -50,6 +50,7 @@ public class study {
         System.out.println("dev02에서 추가.");
         System.out.println("마스터 커밋1");
         System.out.println("마스터 커밋2");
+        System.out.println("마스터 커밋3");
 
     }
 }
