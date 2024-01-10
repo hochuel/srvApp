@@ -51,7 +51,7 @@ public class study {
         System.out.println("마스터 커밋1");
         System.out.println("마스터 커밋2");
         System.out.println("마스터 커밋3");
-
+        System.out.println("dev01 커밋1");
     }
 }
 
