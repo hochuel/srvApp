@@ -45,7 +45,7 @@ public class study {
         System.out.println("hm2: " + hm2);
         System.out.println("hm3: " + hm3);
 
-        System.out.println("리베이스 테스트......");
+        System.out.println("리베이스 테스트 한번더.......");
     }
 }
 
