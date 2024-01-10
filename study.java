@@ -47,6 +47,7 @@ public class study {
 
         System.out.println("리베이스 테스트 한번더.......");
         System.out.println("dev01에서 추가");
+        System.out.println("dev02에서 추가.");
     }
 }
 
